@@ -13,5 +13,5 @@ List of Dishes
 - Tompouce    
 - Bitterballen 
 
- [About Me](./MyStats.md)
+ [About Me](MyStats.md)
  
