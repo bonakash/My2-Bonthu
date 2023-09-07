@@ -11,5 +11,7 @@ Activities in my favorite vacation spot
 
 List of Dishes    
 - Tompouce    
-- Bitterballen  
-   
+- Bitterballen 
+
+ [About Me](Mystats.md)
+ 
