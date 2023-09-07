@@ -13,7 +13,6 @@ List of Dishes
 - Tompouce    
 - Bitterballen 
 
- [About Me](Mystats.md)
 
  ---
  SPORTS RECOMMENDATIONS   
@@ -26,4 +25,6 @@ List of Dishes
  |   BASKETBALL      | IMPROVE BALANCE ND COORDINATION    |  2-3             |
  
 
+ 
+ [About Me](MyStats.md)
  
