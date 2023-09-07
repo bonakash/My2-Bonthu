@@ -14,4 +14,16 @@ List of Dishes
 - Bitterballen 
 
  [About Me](Mystats.md)
+
+ ---
+ SPORTS RECOMMENDATIONS   
+
+ | SPORT | REASON | WEEKLY HOURS  |
+ |---|---|---|  
+ | CRICKET| DEVOLOP FITNESS AND STAMINA     |   3-4            |
+ | TENNIS       | FULL BODY MOVEMENT AND GIVES LOT OF EXCITEMENT     |    1-2           |
+ | FOOTBALL      | INTRESTING,CHALLENGING AND GETS ME TO RUN A LOT     |   2-3            |  
+ |   BASKETBALL      | IMPROVE BALANCE ND COORDINATION    |  2-3             |
+ 
+
  
